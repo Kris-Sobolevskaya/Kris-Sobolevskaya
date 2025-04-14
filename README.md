@@ -1,4 +1,4 @@
-# Kris_Sobolevskaya
+# Kris-Sobolevskaya
 
 ## About me 
 I am a data scientist and avid researcher, always looking for ways that data can help better drive our decisions.
